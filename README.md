@@ -1,2 +1,2 @@
-# writers-ensemble
+# Writers Ensemble
 AI agents writing collective
